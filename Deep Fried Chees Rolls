@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Deep Fried Cheese Rolls</title>
+
+  <!-- If you use a global style.css in your root folder -->
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+  <a href="../index.html">← Back</a>
+
+  <h1>Deep Fried Cheese Rolls</h1>
+  <p>Crunchy on the outside, super cheesy on the inside. These deep fried cheese rolls are perfect as a snack, party food, or a side dish with dips.</p>
+
+  <h2>Ingredients (makes 10–12 rolls)</h2>
+
+  <h3>Cheese filling</h3>
+  <ul>
+    <li>300 g mozzarella, cut into sticks</li>
+    <li>150 g cheddar cheese, cut into sticks</li>
+    <li>2 g black pepper</li>
+  </ul>
+
+  <h3>Rolls</h3>
+  <ul>
+    <li>10–12 spring roll wrappers</li>
+    <li>30 ml water (for sealing the wrappers)</li>
+  </ul>
+
+  <h3>For frying</h3>
+  <ul>
+    <li>800–1000 ml neutral frying oil (enough to deep fry)</li>
+  </ul>
+
+  <h3>Optional dips</h3>
+  <ul>
+    <li>Chili mayo</li>
+    <li>Garlic mayo</li>
+    <li>Sweet chili sauce</li>
+  </ul>
+
+  <h2>Instructions</h2>
+  <ol>
+    <li>Cut the mozzarella and cheddar into sticks (about 8–10 cm long).</li>
+    <li>Place a spring roll wrapper on a clean surface (like a diamond shape).</li>
+    <li>Add 1–2 cheese sticks in the center and sprinkle with a little black pepper.</li>
+    <li>Fold the bottom corner up over the cheese, fold in the sides, then roll tightly.</li>
+    <li>Seal the final corner with a little water so it sticks properly.</li>
+    <li>Repeat until all rolls are ready.</li>
+    <li>Heat oil to <strong>170–180°C</strong>.</li>
+    <li>Fry the rolls in small batches for <strong>2–3 minutes</strong> until golden and crispy.</li>
+    <li>Remove and drain on paper towels for 1 minute.</li>
+    <li>Serve immediately while the cheese is still melted.</li>
+  </ol>
+
+  <h2>Tips</h2>
+  <ul>
+    <li>Don’t overfill the wrappers, or the cheese may burst out while frying.</li>
+    <li>For extra security: freeze the rolls for 15–20 minutes before frying (helps prevent leaking).</li>
+    <li>Keep the oil temperature steady so they don’t become greasy.</li>
+    <li>Air fryer option: brush with oil and cook at 200°C for 8–10 minutes (not as crispy as deep frying, but still good).</li>
+  </ul>
+
+  <h2>Required Equipment</h2>
+  <ul>
+    <li>Knife and cutting board</li>
+    <li>Deep pot or fryer</li>
+    <li>Thermometer (recommended)</li>
+    <li>Slotted spoon or tongs</li>
+    <li>Paper towels</li>
+  </ul>
+
+  <h2>Allergen Information</h2>
+  <p>Contains dairy (cheese). Wrappers usually contain gluten. Check ingredients for possible allergens.</p>
+
+</body>
+</html>
