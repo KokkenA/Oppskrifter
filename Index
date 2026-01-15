@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Recipes</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: 30px auto;
+      padding: 0 15px;
+      line-height: 1.6;
+    }
+
+    header {
+      margin-bottom: 30px;
+    }
+
+    .recipe-list a {
+      display: block;
+      padding: 8px 0;
+      text-decoration: none;
+    }
+
+    .recipe {
+      border-top: 1px solid #ddd;
+      padding-top: 25px;
+      margin-top: 25px;
+    }
+
+    .back-to-top {
+      display: inline-block;
+      margin-top: 10px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>My Recipes</h1>
+    <p>Welcome! Here I share recipes, photos, and cooking tips.</p>
+
+    <h2>Recipes</h2>
+    <div class="recipe-list">
+      <a href="#meatballs">Homemade Meatballs with Onion and Chili</a>
+      <!-- Add more recipes here -->
+    </div>
+  </header>
+
+  <!-- RECIPE 1 -->
+  <section class="recipe" id="meatballs">
+    <h2>Homemade Meatballs with Onion and Chili</h2>
+    <p>Juicy homemade meatballs made with finely chopped onion, salt, black pepper, and a little kick of chili.</p>
+
+    <h3>Ingredients (serves 4)</h3>
+    <ul>
+      <li>600 g ground beef</li>
+      <li>1 yellow onion (about 120 g), finely chopped</li>
+      <li>1 red chili (about 10–15 g), finely chopped</li>
+      <li>10 g salt</li>
+      <li>3 g black pepper (about 1 tsp)</li>
+      <li>30 ml water</li>
+      <li>20 ml neutral cooking oil (for frying)</li>
+    </ul>
+
+    <h3>Instructions</h3>
+    <ol>
+      <li>Add the ground beef to a mixing bowl.</li>
+      <li>Add chopped onion, chili, salt, black pepper, and water.</li>
+      <li>Mix well for 2–3 minutes until the mixture becomes smooth and slightly sticky.</li>
+      <li>Shape into meatballs using slightly wet hands (about 5–6 cm).</li>
+      <li>Heat a frying pan over medium-high heat and add oil.</li>
+      <li>Fry 3–4 minutes per side until nicely browned.</li>
+      <li>Lower heat and cook 4–6 minutes until fully cooked.</li>
+      <li>Rest for 2 minutes before serving.</li>
+    </ol>
+
+    <h3>Tips</h3>
+    <ul>
+      <li>For a milder flavor: use half the chili or remove the seeds.</li>
+      <li>For extra juicy meatballs: add more water (up to 50 ml) and mix longer.</li>
+      <li>If making larger meatballs: cook longer on lower heat.</li>
+    </ul>
+
+    <h3>Required Equipment</h3>
+    <ul>
+      <li>Mixing bowl</li>
+      <li>Cutting board and knife</li>
+      <li>Frying pan</li>
+      <li>Spatula</li>
+    </ul>
+
+    <h3>Allergen Information</h3>
+    <p>No known allergens in the basic recipe. Check any sides for allergens.</p>
+
+    <a class="back-to-top" href="#top">↑ Back to top</a>
+  </section>
+
+</body>
+</html>
