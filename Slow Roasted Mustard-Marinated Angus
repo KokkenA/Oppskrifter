@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Slow Roasted Mustard-Marinated Angus Chuck Roast</title>
+
+  <!-- If you use style.css in your root folder -->
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+  <a href="../index.html">← Back</a>
+
+  <h1>Slow Roasted Mustard-Marinated Angus Chuck Roast</h1>
+  <p>Tender, juicy chuck roast slowly cooked with a mustard marinade. Served with creamy mashed potatoes, peas, carrots, and a rich red wine sauce.</p>
+
+  <h2>Ingredients (serves 4–6)</h2>
+
+  <h3>Beef</h3>
+  <ul>
+    <li>1200 g beef chuck roast (preferably Angus)</li>
+    <li>20 g wholegrain mustard</li>
+    <li>20 g Dijon mustard</li>
+    <li>15 ml neutral cooking oil</li>
+    <li>12 g salt</li>
+    <li>3 g black pepper</li>
+    <li>4 g paprika powder (optional)</li>
+    <li>4 g garlic powder (optional)</li>
+  </ul>
+
+  <h3>Vegetables</h3>
+  <ul>
+    <li>300 g carrots</li>
+    <li>200 g green peas</li>
+  </ul>
+
+  <h3>Mashed Potatoes</h3>
+  <ul>
+    <li>1000 g potatoes</li>
+    <li>80 g butter</li>
+    <li>150 ml milk</li>
+    <li>8 g salt</li>
+    <li>2 g black pepper</li>
+  </ul>
+
+  <h3>Red Wine Sauce</h3>
+  <ul>
+    <li>20 ml neutral cooking oil</li>
+    <li>150 g onion, roughly chopped</li>
+    <li>80 g carrot, roughly chopped</li>
+    <li>2 garlic cloves (about 10 g), roughly chopped</li>
+    <li>20 g tomato paste</li>
+    <li>400 ml red wine</li>
+    <li>400 ml beef stock (or concentrated stock + water)</li>
+    <li>2 bay leaves</li>
+    <li>3 g black pepper</li>
+    <li>10 g butter (to finish)</li>
+    <li>3 g salt (adjust to taste)</li>
+  </ul>
+
+  <h2>Instructions</h2>
+
+  <h3>Slow Roasted Beef</h3>
+  <ol>
+    <li>Preheat the oven to <strong>130°C</strong> (top and bottom heat).</li>
+    <li>Mix wholegrain mustard, Dijon mustard, oil, salt, pepper, and optional spices.</li>
+    <li>Rub the marinade all over the chuck roast.</li>
+    <li>Place the meat in an ovenproof dish or pot with a lid.</li>
+    <li>Roast for <strong>4–5 hours</strong> until the meat is very tender and easy to pull apart.</li>
+    <li>If you use a thermometer: aim for about <strong>90–95°C</strong> internal temperature for fall-apart tenderness.</li>
+    <li>Remove from the oven and let the meat rest for <strong>15 minutes</strong> before serving.</li>
+  </ol>
+
+  <h3>Red Wine Sauce</h3>
+  <ol>
+    <li>Heat oil in a pot and sauté onion, carrot, and garlic for <strong>5–7 minutes</strong>.</li>
+    <li>Add tomato paste and cook for <strong>1 minute</strong>.</li>
+    <li>Pour in the red wine and reduce to about half.</li>
+    <li>Add beef stock, bay leaves, and black pepper. Simmer for <strong>20–30 minutes</strong>.</li>
+    <li>Strain the sauce if you want it smooth. Season with salt and whisk in butter at the end.</li>
+  </ol>
+
+  <h3>Mashed Potatoes</h3>
+  <ol>
+    <li>Peel the potatoes and boil in lightly salted water until tender.</li>
+    <li>Drain well and mash the potatoes.</li>
+    <li>Stir in butter and milk. Season with salt and pepper.</li>
+  </ol>
+
+  <h3>Carrots & Peas</h3>
+  <ol>
+    <li>Peel the carrots and cut into your preferred size.</li>
+    <li>Boil the carrots until tender.</li>
+    <li>Warm the peas quickly in lightly salted water, then drain.</li>
+    <li>Serve the vegetables hot on the side.</li>
+  </ol>
+
+  <h2>Tips</h2>
+  <ul>
+    <li>For extra flavor: sear the beef quickly in a hot pan before roasting.</li>
+    <li>For even more tender meat: cook a bit longer at a slightly lower temperature.</li>
+    <li>The red wine sauce tastes best when it reduces properly and has time to develop.</li>
+    <li>Leftovers are perfect for wraps, sandwiches, or pulled beef bowls.</li>
+  </ul>
+
+  <h2>Required Equipment</h2>
+  <ul>
+    <li>Ovenproof dish or pot with a lid</li>
+    <li>Mixing bowl</li>
+    <li>Knife and cutting board</li>
+    <li>Pot (for sauce)</li>
+    <li>Potato masher</li>
+    <li>Frying pan (optional, for searing)</li>
+    <li>Thermometer (recommended)</li>
+  </ul>
+
+  <h2>Allergen Information</h2>
+  <p>Contains <strong>dairy</strong> (butter and milk). Contains <strong>mustard</strong> (wholegrain and Dijon mustard).</p>
+
+</body>
+</html>
