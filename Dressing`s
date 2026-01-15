@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>5 Easy Salad Dressings</title>
+
+  <!-- If you use a global style.css in your root folder -->
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+  <a href="../index.html">← Back</a>
+
+  <h1>5 Easy Salad Dressings</h1>
+  <p>Five different dressings you can mix in minutes. Perfect for crispy salads, burgers, fries, and dipping.</p>
+
+  <h2>1) Classic Garlic Mayo Dressing</h2>
+  <ul>
+    <li>120 g mayonnaise</li>
+    <li>1 garlic clove (about 5 g), finely grated</li>
+    <li>10 ml water (optional, to loosen)</li>
+    <li>2 g salt</li>
+    <li>1 g black pepper</li>
+  </ul>
+  <p><strong>How to make:</strong> Mix everything in a bowl until smooth. Chill 10 minutes for best flavor.</p>
+
+  <h2>2) Creamy Honey Mustard Dressing</h2>
+  <ul>
+    <li>100 g sour cream</li>
+    <li>20 g mustard</li>
+    <li>15 g honey</li>
+    <li>2 g salt</li>
+    <li>1 g black pepper</li>
+  </ul>
+  <p><strong>How to make:</strong> Stir together until creamy. Taste and adjust with more honey or mustard.</p>
+
+  <h2>3) Simple Lemon-Free Vinaigrette</h2>
+  <ul>
+    <li>40 ml olive oil</li>
+    <li>20 ml apple cider vinegar</li>
+    <li>5 g honey (optional)</li>
+    <li>2 g salt</li>
+    <li>1 g black pepper</li>
+  </ul>
+  <p><strong>How to make:</strong> Whisk or shake in a jar until combined. Shake again before serving.</p>
+
+  <h2>4) Spicy Chili Yogurt Dressing</h2>
+  <ul>
+    <li>120 g Greek yogurt</li>
+    <li>20 g sriracha (or chili sauce)</li>
+    <li>5 ml water (optional, to loosen)</li>
+    <li>2 g salt</li>
+    <li>1 g black pepper</li>
+  </ul>
+  <p><strong>How to make:</strong> Mix until smooth. Add more chili sauce if you want it hotter.</p>
+
+  <h2>5) Sweet Chili Mayo Dressing</h2>
+  <ul>
+    <li>100 g mayonnaise</li>
+    <li>30 g sweet chili sauce</li>
+    <li>5 ml water (optional, to loosen)</li>
+    <li>2 g salt</li>
+    <li>1 g black pepper</li>
+  </ul>
+  <p><strong>How to make:</strong> Stir together until smooth. Great for fries, burgers, and crispy salad bowls.</p>
+
+  <h2>Tips</h2>
+  <ul>
+    <li>Store in a sealed container in the fridge for up to 3 days.</li>
+    <li>For a thinner dressing: add a little more water (5–15 ml).</li>
+    <li>For more flavor: add fresh herbs like chives or parsley.</li>
+  </ul>
+
+  <h2>Allergen Information</h2>
+  <p>Contains eggs (mayonnaise) and dairy (sour cream / yogurt). Mustard is an allergen for some people.</p>
+
+</body>
+</html>
