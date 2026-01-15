@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Juicy Mini Burgers with Lots of Cheese</title>
+
+  <!-- If you use a global style.css in your root folder -->
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+  <a href="../index.html">← Back</a>
+
+  <h1>Juicy Mini Burgers with Lots of Cheese</h1>
+  <p>Small, juicy mini burgers packed with melted cheese. Perfect for parties, movie nights, or when you want burger vibes in bite-size form.</p>
+
+  <h2>Ingredients (makes 10–12 mini burgers)</h2>
+
+  <h3>Burger patties</h3>
+  <ul>
+    <li>700 g ground beef (15–20% fat for best juiciness)</li>
+    <li>10 g salt</li>
+    <li>3 g black pepper</li>
+    <li>1 yellow onion (about 120 g), very finely chopped</li>
+    <li>30 ml water</li>
+    <li>20 ml neutral cooking oil (for frying)</li>
+  </ul>
+
+  <h3>Cheese & toppings</h3>
+  <ul>
+    <li>250 g cheddar cheese, sliced</li>
+    <li>150 g burger cheese (American-style slices)</li>
+    <li>10–12 mini burger buns</li>
+    <li>50 g pickles, sliced (optional)</li>
+    <li>50 g lettuce (optional)</li>
+  </ul>
+
+  <h3>Quick burger sauce</h3>
+  <ul>
+    <li>150 g mayonnaise</li>
+    <li>30 g ketchup</li>
+    <li>10 g mustard</li>
+    <li>2 g salt</li>
+    <li>2 g black pepper</li>
+  </ul>
+
+  <h2>Instructions</h2>
+  <ol>
+    <li>Make the sauce: mix mayonnaise, ketchup, mustard, salt, and pepper in a bowl. Set aside.</li>
+    <li>In a mixing bowl, combine ground beef, salt, pepper, finely chopped onion, and water.</li>
+    <li>Mix for 2–3 minutes until the mixture becomes smooth and slightly sticky (this keeps the burgers juicy).</li>
+    <li>Shape into 10–12 small patties (about 60–70 g each). Press a small dent in the middle of each patty to prevent puffing.</li>
+    <li>Heat a frying pan on medium-high heat and add a little oil.</li>
+    <li>Fry the patties for 2–3 minutes per side (depending on thickness).</li>
+    <li>When the patties are almost done, add plenty of cheese on top (use both cheddar + burger cheese).</li>
+    <li>Lower the heat and cover the pan with a lid for 30–60 seconds to melt the cheese.</li>
+    <li>Toast the mini buns lightly in a dry pan or oven for extra flavor.</li>
+    <li>Assemble: bun + sauce + cheesy patty + toppings (pickles/lettuce) + top bun.</li>
+    <li>Serve immediately while the cheese is still melting.</li>
+  </ol>
+
+  <h2>Tips</h2>
+  <ul>
+    <li>For extra juicy burgers: don’t press down on the patties while frying.</li>
+    <li>Want even more cheese? Add a second layer of cheese inside the bun too.</li>
+    <li>Party trick: keep them warm in the oven at 80–90°C for a short time (don’t overheat or they dry out).</li>
+    <li>Spicy version: add chopped chili or a little sriracha to the sauce.</li>
+  </ul>
+
+  <h2>Required Equipment</h2>
+  <ul>
+    <li>Mixing bowl</li>
+    <li>Knife and cutting board</li>
+    <li>Frying pan</li>
+    <li>Spatula</li>
+    <li>Lid (to melt the cheese)</li>
+  </ul>
+
+  <h2>Allergen Information</h2>
+  <p>Contains dairy (cheese) and eggs (mayonnaise). Buns contain gluten. Check toppings and sauces for allergens.</p>
+
+</body>
+</html>
