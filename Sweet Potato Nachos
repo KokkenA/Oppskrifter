@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sweet Potato Nachos</title>
+
+  <!-- If you use style.css in your root folder -->
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+  <a href="../index.html">← Back</a>
+
+  <h1>Sweet Potato Nachos</h1>
+  <p>A fun comfort food twist on nachos, made with sweet potato slices instead of chips. Perfect for sharing, movie nights, or an easy dinner.</p>
+
+  <h2>Ingredients (serves 2–3)</h2>
+
+  <h3>Sweet Potato Nachos</h3>
+  <ul>
+    <li>600 g sweet potato</li>
+    <li>20 ml neutral cooking oil</li>
+    <li>6 g salt</li>
+    <li>2 g black pepper</li>
+    <li>2 g paprika powder</li>
+    <li>2 g garlic powder (optional)</li>
+    <li>2 g chili flakes (optional)</li>
+  </ul>
+
+  <h3>Toppings</h3>
+  <ul>
+    <li>150 g grated cheese (cheddar or mixed cheese)</li>
+    <li>150 g ground beef (optional)</li>
+    <li>80 g red onion, finely chopped</li>
+    <li>100 g cherry tomatoes, halved</li>
+    <li>50 g jalapeños (optional)</li>
+    <li>30 g fresh coriander (optional)</li>
+  </ul>
+
+  <h3>Dressing (simple sour cream dressing)</h3>
+  <ul>
+    <li>150 g sour cream</li>
+    <li>10 ml apple cider vinegar (or white wine vinegar)</li>
+    <li>3 g salt</li>
+    <li>1 g black pepper</li>
+    <li>5 g sugar or honey (optional)</li>
+  </ul>
+
+  <h2>Instructions</h2>
+  <ol>
+    <li>Preheat the oven to <strong>220°C</strong> (top and bottom heat).</li>
+    <li>Wash the sweet potato well (you can keep the skin on). Slice into thin rounds (about 3–4 mm).</li>
+    <li>Place the sweet potato slices in a bowl and mix with oil, salt, pepper, paprika, and optional garlic powder/chili flakes.</li>
+    <li>Spread the slices on a baking tray lined with baking paper. Try to keep them in a single layer.</li>
+    <li>Bake for <strong>15–20 minutes</strong>, flipping halfway, until golden and slightly crispy on the edges.</li>
+    <li>If using ground beef: fry it in a pan with a little salt and pepper until cooked through.</li>
+    <li>Remove the tray from the oven. Sprinkle with cheese and add the cooked ground beef (if using).</li>
+    <li>Return to the oven for <strong>5–8 minutes</strong> until the cheese is melted and bubbling.</li>
+    <li>Top with red onion, tomatoes, jalapeños, and coriander.</li>
+    <li>Mix the dressing ingredients in a bowl and serve on the side.</li>
+  </ol>
+
+  <h2>Tips</h2>
+  <ul>
+    <li>For extra crispiness: slice the sweet potato thinner and bake a little longer (watch carefully so it doesn’t burn).</li>
+    <li>Swap ground beef for beans or pulled chicken for variety.</li>
+    <li>For more “nachos style”: add BBQ sauce or chili mayo on top.</li>
+    <li>For a lighter version: use less cheese and add more fresh vegetables.</li>
+  </ul>
+
+  <h2>Required Equipment</h2>
+  <ul>
+    <li>Baking tray</li>
+    <li>Baking paper</li>
+    <li>Knife and cutting board</li>
+    <li>Mixing bowl</li>
+    <li>Frying pan (if using ground beef)</li>
+  </ul>
+
+  <h2>Allergen Information</h2>
+  <p>Contains <strong>dairy</strong> (cheese and sour cream). Check packaged toppings (like jalapeños) for possible traces of allergens.</p>
+
+</body>
+</html>
