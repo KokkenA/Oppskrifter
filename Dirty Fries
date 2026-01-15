@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dirty Fries (Loaded Fries with Two Sauces)</title>
+
+  <!-- If you use a global style.css in your root folder -->
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+  <a href="../index.html">← Back</a>
+
+  <h1>Dirty Fries (Loaded Fries with Two Sauces)</h1>
+  <p>Crispy fries loaded with crunchy bacon, a little chili heat, and two easy sauces. Perfect comfort food for sharing.</p>
+
+  <h2>Ingredients (serves 2–3)</h2>
+  <ul>
+    <li>600 g frozen fries (or homemade fries)</li>
+    <li>150 g bacon, diced</li>
+    <li>1 red chili (about 10–15 g), finely chopped</li>
+    <li>20 ml neutral cooking oil (if needed for frying)</li>
+    <li>2 g salt (adjust to taste)</li>
+    <li>2 g black pepper</li>
+  </ul>
+
+  <h3>Sauce 1: Garlic Mayo</h3>
+  <ul>
+    <li>120 g mayonnaise</li>
+    <li>1 garlic clove (about 5 g), finely grated</li>
+    <li>5 ml water (optional, to loosen)</li>
+    <li>1 g salt</li>
+    <li>1 g black pepper</li>
+  </ul>
+
+  <h3>Sauce 2: Spicy Chili Sauce</h3>
+  <ul>
+    <li>100 g sour cream</li>
+    <li>20 g sriracha (or chili sauce)</li>
+    <li>5 ml water (optional, to loosen)</li>
+    <li>1 g salt</li>
+    <li>1 g black pepper</li>
+  </ul>
+
+  <h2>Instructions</h2>
+  <ol>
+    <li>Cook the fries until very crispy (oven, air fryer, or deep fryer). Follow the package instructions, but add 2–3 extra minutes for extra crunch.</li>
+    <li>While the fries cook, fry the diced bacon in a pan over medium heat until golden and crispy. Remove and drain on paper.</li>
+    <li>Make the garlic mayo: mix mayonnaise, grated garlic, salt, pepper, and a splash of water if you want it thinner.</li>
+    <li>Make the spicy chili sauce: mix sour cream, sriracha, salt, pepper, and a splash of water if needed.</li>
+    <li>Place the crispy fries on a serving plate or in a bowl.</li>
+    <li>Top with crispy bacon and finely chopped chili.</li>
+    <li>Drizzle over both sauces (or serve the sauces on the side).</li>
+    <li>Finish with a pinch of salt and black pepper. Serve immediately.</li>
+  </ol>
+
+  <h2>Tips</h2>
+  <ul>
+    <li>For extra crunch: bake the fries on a preheated tray and don’t overcrowd the pan.</li>
+    <li>For more heat: add extra chili or a pinch of chili flakes.</li>
+    <li>For extra flavor: sprinkle with 10–15 g grated cheese while the fries are hot.</li>
+    <li>If you want it more “street food style”: add sliced spring onion on top.</li>
+  </ul>
+
+  <h2>Required Equipment</h2>
+  <ul>
+    <li>Oven / air fryer / deep fryer</li>
+    <li>Frying pan</li>
+    <li>Mixing bowls (2 small bowls for sauces)</li>
+    <li>Knife and cutting board</li>
+  </ul>
+
+  <h2>Allergen Information</h2>
+  <p>Contains eggs (mayonnaise) and dairy (sour cream). Bacon may contain traces depending on brand.</p>
+
+</body>
+</html>
