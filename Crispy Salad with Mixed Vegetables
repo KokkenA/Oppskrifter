@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Crispy Salad with Mixed Vegetables</title>
+
+  <!-- If you use a global style.css in your root folder -->
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+  <a href="../index.html">← Back</a>
+
+  <h1>Crispy Salad with Mixed Vegetables</h1>
+  <p>A fresh, crunchy salad packed with different vegetables and a simple dressing. Perfect as a light meal or a side dish.</p>
+
+  <h2>Ingredients (serves 2–3)</h2>
+
+  <h3>Salad</h3>
+  <ul>
+    <li>150 g romaine lettuce (or iceberg), chopped</li>
+    <li>100 g cucumber, sliced</li>
+    <li>120 g cherry tomatoes, halved</li>
+    <li>80 g red bell pepper, thinly sliced</li>
+    <li>60 g carrot, grated</li>
+    <li>50 g red onion, thinly sliced</li>
+    <li>80 g sweet corn (optional)</li>
+  </ul>
+
+  <h3>Dressing</h3>
+  <ul>
+    <li>40 ml olive oil</li>
+    <li>20 ml apple cider vinegar</li>
+    <li>10 g honey (optional)</li>
+    <li>3 g salt</li>
+    <li>2 g black pepper</li>
+  </ul>
+
+  <h3>Optional extras</h3>
+  <ul>
+    <li>80 g feta cheese (optional)</li>
+    <li>40 g toasted sunflower seeds (optional)</li>
+    <li>1–2 g chili flakes (optional)</li>
+  </ul>
+
+  <h2>Instructions</h2>
+  <ol>
+    <li>Wash and dry all vegetables well. (Dry salad = extra crispy texture.)</li>
+    <li>Chop the lettuce and place it in a large bowl.</li>
+    <li>Add cucumber, tomatoes, bell pepper, carrot, red onion, and corn.</li>
+    <li>Make the dressing: mix olive oil, vinegar, honey, salt, and pepper in a small bowl.</li>
+    <li>Pour the dressing over the salad right before serving.</li>
+    <li>Toss gently and serve immediately.</li>
+  </ol>
+
+  <h2>Tips</h2>
+  <ul>
+    <li>For extra crispiness: keep the vegetables cold and add dressing at the last second.</li>
+    <li>Want more protein? Add grilled chicken, tuna, eggs, or chickpeas.</li>
+    <li>Want more crunch? Add croutons, nuts, or seeds.</li>
+    <li>Make it spicy: add fresh chili or chili flakes.</li>
+  </ul>
+
+  <h2>Required Equipment</h2>
+  <ul>
+    <li>Cutting board and knife</li>
+    <li>Large bowl</li>
+    <li>Small bowl (for dressing)</li>
+  </ul>
+
+  <h2>Allergen Information</h2>
+  <p>Basic salad is allergen-free. If using feta, contains dairy. If using seeds/nuts, may contain allergens.</p>
+
+</body>
+</html>
